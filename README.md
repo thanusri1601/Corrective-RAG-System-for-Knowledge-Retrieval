@@ -2,16 +2,21 @@
 
 ## Workflow Graph
 
-![CRAG Workflow](assets/image.png)
+<p align="center">
+  <img src="assets/image.png" width="200">
+</p>
 
 ---
 
-
 ## AWS Deployment Screenshot
 
-![AWS EC2 Deployment](assets/output1)
+<p align="center">
+  <img src="assets/output1.png" width="200">
+</p>
 
-![](assets/output2)
+<p align="center">
+  <img src="assets/output2.png" width="200">
+</p>
 
 ---
 
