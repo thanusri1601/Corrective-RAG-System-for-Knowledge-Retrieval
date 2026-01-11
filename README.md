@@ -15,6 +15,14 @@ Configuration details regarding the chunking strategy, embedding models, and vec
 </p>
 
 ---
+## Infographic for better understanding
+
+<p align="center">
+  <img src="assets/image.png" width="200">
+</p>
+
+
+
 
 ## AWS Deployment Screenshot
 ### start -> retrieve -> grade_documents -> generate -> end
