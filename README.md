@@ -36,7 +36,7 @@ Configuration details regarding the chunking strategy, embedding models, and vec
 
 ### 1. Clone the Repository
 git clone (https://github.com/thanusri1601/Corrective-RAG-System-for-Knowledge-Retrieval.git)  
-cd CRAG-System
+cd ~CRAG-System
 
 ---
 
