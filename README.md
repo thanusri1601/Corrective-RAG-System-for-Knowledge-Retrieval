@@ -2,19 +2,19 @@
 
 ## Workflow Graph
 
-![CRAG Workflow](assets/workflow_graph.png)
+![CRAG Workflow](assets/image.png)
 
 ---
 
-## Application Output
-
-![Streamlit Output](assets/ui_output.png)
-
----
 
 ## AWS Deployment Screenshot
 
-![AWS EC2 Deployment](assets/aws_deployment.png)
+![AWS EC2 Deployment](assets/WhatsApp Image 2026-01-08 at 21.31.39.jpeg)
+
+![](assets/WhatsApp Image 2026-01-08 at 21.32.55.jpeg)
+
+---
+
 ## Setup
 
 ### 1. Clone the Repository
