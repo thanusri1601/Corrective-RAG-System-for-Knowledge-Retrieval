@@ -84,7 +84,14 @@ Run the application on EC2 using:
 streamlit run app.py --server.port 8501 --server.address 0.0.0.0  
 
 ## Live Deployment
-http://ec2-3-91-215-180.compute-1.amazonaws.com:8501/
+
+Deployment Status: Temporarily offline
+
+The application was successfully deployed on AWS EC2 and verified end-to-end.
+The live instance is currently paused to avoid ongoing cloud resource costs.
+Deployment can be reactivated at any time.
+
+(http://ec2-3-91-215-180.compute-1.amazonaws.com:8501/)
 
 ## Output
 
