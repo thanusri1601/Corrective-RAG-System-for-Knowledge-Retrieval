@@ -11,10 +11,12 @@
 ## AWS Deployment Screenshot
 
 <p align="center">
+  start -> retrieve -> grade_documents -> end 
   <img src="assets/output1.jpeg" width="550">
 </p>
-
+  
 <p align="center">
+  start -> retrieve -> grade_documents -> transform_query -> web_search_node -> end
   <img src="assets/output2.jpeg" width="550">
 </p>
 
