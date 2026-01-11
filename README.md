@@ -17,14 +17,14 @@ Configuration details regarding the chunking strategy, embedding models, and vec
 ---
 
 ## AWS Deployment Screenshot
-### start -> retrieve -> grade_documents -> end
+### start -> retrieve -> grade_documents -> generate -> end
 <p align="center">
    
   <img src="assets/output1.jpeg" width="550">
 </p>
 
 
-### start -> retrieve -> grade_documents -> transform_query -> web_search_node -> end 
+### start -> retrieve -> grade_documents -> transform_query -> web_search_node -> generate -> end 
 <p align="center">
   
   <img src="assets/output2.jpeg" width="550">
