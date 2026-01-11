@@ -18,7 +18,7 @@ Configuration details regarding the chunking strategy, embedding models, and vec
 ## Infographic for better understanding
 
 <p align="center">
-  <img src="assets/image.png" width="200">
+  <img src="assets/infographic.png" width="500">
 </p>
 
 
