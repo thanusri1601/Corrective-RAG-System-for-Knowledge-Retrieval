@@ -1,9 +1,24 @@
 # CRAG: Corrective Retrieval-Augmented Generation System
 
+## Workflow Graph
+
+![CRAG Workflow](assets/workflow_graph.png)
+
+---
+
+## Application Output
+
+![Streamlit Output](assets/ui_output.png)
+
+---
+
+## AWS Deployment Screenshot
+
+![AWS EC2 Deployment](assets/aws_deployment.png)
 ## Setup
 
 ### 1. Clone the Repository
-git clone https://github.com/your-username/CRAG-System.git  
+git clone (https://github.com/thanusri1601/Corrective-RAG-System-for-Knowledge-Retrieval.git)  
 cd CRAG-System
 
 ---
@@ -12,7 +27,6 @@ cd CRAG-System
 python3 -m venv venv  
 source venv/bin/activate  
 
-Python 3.10+ recommended.
 
 ---
 
@@ -48,8 +62,7 @@ Run the application on EC2 using:
 streamlit run app.py --server.port 8501 --server.address 0.0.0.0  
 
 ### Live Deployment
-http://ec2-54-237-214-22.compute-1.amazonaws.com:8501
-
+http://ec2-3-91-215-180.compute-1.amazonaws.com:8501/
 ---
 
 ## Output
@@ -58,41 +71,6 @@ http://ec2-54-237-214-22.compute-1.amazonaws.com:8501
 - Corrective Retrieval-Augmented Generation workflow  
 - Reduced hallucinations through validation and corrective retrieval  
 - Publicly accessible AWS EC2 deployment  
-
----
-
-## Project Structure
-
-CRAG-System/  
-├── app.py  
-├── agents/  
-│   ├── retriever.py  
-│   ├── generator.py  
-│   └── validator.py  
-├── assets/  
-│   ├── workflow_graph.png  
-│   ├── ui_output.png  
-│   └── aws_deployment.png  
-├── requirements.txt  
-└── README.md  
-
----
-
-## Workflow Graph
-
-![CRAG Workflow](assets/workflow_graph.png)
-
----
-
-## Application Output
-
-![Streamlit Output](assets/ui_output.png)
-
----
-
-## AWS Deployment Screenshot
-
-![AWS EC2 Deployment](assets/aws_deployment.png)
 
 ---
 
@@ -117,19 +95,7 @@ CRAG-System/
 
 ---
 
-## Notes
-
-- Internet connectivity is required for API calls  
-- Mermaid graph rendering may fail if external APIs are unavailable  
-- Tested on Ubuntu 22.04 (AWS EC2)  
-
----
-
 ## Author
 
 Thanusri A  
-Aspiring Data Science Intern | LLM Systems | Agentic AI  
 
----
-
-If you find this project useful, please consider giving it a star ⭐
