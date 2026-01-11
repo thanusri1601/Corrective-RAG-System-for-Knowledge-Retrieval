@@ -9,9 +9,9 @@
 
 ## AWS Deployment Screenshot
 
-![AWS EC2 Deployment](assets/WhatsApp Image 2026-01-08 at 21.31.39.jpeg)
+![AWS EC2 Deployment](assets/output1)
 
-![](assets/WhatsApp Image 2026-01-08 at 21.32.55.jpeg)
+![](assets/output2)
 
 ---
 
