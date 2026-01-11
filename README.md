@@ -11,11 +11,11 @@
 ## AWS Deployment Screenshot
 
 <p align="center">
-  <img src="assets/output1.png" width="200">
+  <img src="assets/output1.jpeg" width="200">
 </p>
 
 <p align="center">
-  <img src="assets/output2.png" width="200">
+  <img src="assets/output2.jpeg" width="200">
 </p>
 
 ---
