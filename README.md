@@ -41,9 +41,6 @@ pip install -r requirements.txt
 ### Local Execution
 streamlit run app.py  
 
-Access the application at:  
-http://localhost:8501
-
 ---
 
 ## AWS EC2 Deployment
