@@ -61,9 +61,8 @@ This project is deployed on an AWS EC2 Ubuntu instance.
 Run the application on EC2 using:
 streamlit run app.py --server.port 8501 --server.address 0.0.0.0  
 
-### Live Deployment
+## Live Deployment
 http://ec2-3-91-215-180.compute-1.amazonaws.com:8501/
----
 
 ## Output
 
