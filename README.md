@@ -107,7 +107,7 @@ Deployment can be reactivated at any time.
 - Python  
 - LangChain  
 - LangGraph  
-- FAISS Vector Store  
+- Chroma Vector Store  
 - OpenAI API  
 - Streamlit  
 - AWS EC2  
